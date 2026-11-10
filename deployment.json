@@ -3,8 +3,8 @@
   "public_files": [
     "index.html"
   ],
-  "report_sha256": "745c6df6c54f9c70bb6866e349211a11e585645b3037cf4590c13f75f31e5785",
+  "report_sha256": "0b0a1d597eb82e59d92cd8aa83505ea6ede819b16c0f9c977d1a9ba3298bdfef",
   "case_records": 75,
-  "flag_audit_records": 977,
-  "analysis_review_date": "2026-11-06"
+  "case_groups": 34,
+  "editorial_update_date": "2026-11-10"
 }
