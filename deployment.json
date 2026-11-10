@@ -3,8 +3,10 @@
   "public_files": [
     "index.html"
   ],
-  "report_sha256": "0b0a1d597eb82e59d92cd8aa83505ea6ede819b16c0f9c977d1a9ba3298bdfef",
+  "report_sha256": "2288d73fbd0fa728e9d5effe21f0ef5fb952d1ea2f5a2f00fab013f0d8973586",
   "case_records": 75,
   "case_groups": 34,
-  "editorial_update_date": "2026-11-10"
+  "editorial_update_date": "2026-11-10",
+  "deepstate_source_date": "2026-11-09",
+  "frontline_layer": "Credited dated visual snapshot"
 }
